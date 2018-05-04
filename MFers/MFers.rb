@@ -3,7 +3,7 @@
 
 
 #Edit the path to the audio file
-MMF = “/path/to/MMF_j.aiff"
+MMF = "/path/to/MMF_j.aiff"
 
 use_bpm 160
 
